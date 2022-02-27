@@ -8,7 +8,7 @@ main()
 
 
     d=v*t;
-    printf("La distania que recorrio el proyectil es de:\n %lf ",d);
+    printf("La distancia que recorrio el proyectil es de:\n %lf ",d);
 	
 	
 }
